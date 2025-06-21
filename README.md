@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://gethushan.github.io/MyPortfolio/](https://gethushan.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [/MyPortfolio/](https://my-portfolio-g79l.vercel.app/)
 
 - 💬 Ask me about **React, NodeJS, MongoDB, Express**
 
