@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:7c3aed&height=220&section=header&text=Ravichandran%20Gethushan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI-Augmented%20Developer%20%7C%20CS%20Undergraduate&descAlignY=58&descSize=16" />
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:7c3aed&height=220&section=header&text=Ravichandran%20Gethushan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Tech-Enthusiast%20%7C%20CS%20Undergraduate&descAlignY=58&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Modern+Scalable+Web+Applications;React+%7C+Next.js+%7C+TypeScript+Developer;Node.js+%7C+Express+%7C+Prisma+%7C+MongoDB;AI-Augmented+Development+Workflow" alt="Typing SVG" />
 
@@ -21,7 +20,7 @@ const gethushan = {
   location: "Sri Lanka 🇱🇰",
   role: "Full Stack Engineer",
   education: "BSc in Computer Science",
-  currentWork: "Kifgo.lk",
+  currentWork: "[kifgo-drop-xi.vercel.app](https://kifgo-drop-xi.vercel.app/)",
   portfolio: "https://my-portfolio-g79l.vercel.app/",
   focus: [
     "Modern Web Applications",
@@ -48,15 +47,26 @@ const gethushan = {
 ## 🧠 Tech Arsenal
 <div align="center">
 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux" />
+<div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</div>
 ⚙️ Backend
+  <div>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,prisma" />
+  </div>
 🗄️ Database
+  <div>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
+  </div>
 🛠️ Tools & Platforms
+<div>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma,linux,postman" />
+</div>
 📚 Other Technologies
-<img src="https://skillicons.dev/icons?i=java,cpp,dart,flutter,aws,bash" /> </div>
+  <div>
+<img src="https://skillicons.dev/icons?i=java,cpp,dart,flutter,aws,bash" /> 
+  </div>
+  </div>
 🏆 Featured Projects
 <table> <tr> <td width="50%">
 📸 Photography Contest Platform
