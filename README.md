@@ -22,6 +22,7 @@ const gethushan = {
   education: "BSc in Computer Science",
   currentWork: "[kifgo-drop-xi.vercel.app](https://kifgo-drop-xi.vercel.app/)",
   portfolio: "https://my-portfolio-g79l.vercel.app/",
+  blog: "https://medium.com/@gethushan.uni"
   focus: [
     "Modern Web Applications",
     "Scalable Backend Systems",
